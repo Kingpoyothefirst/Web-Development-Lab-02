@@ -1,0 +1,23 @@
+{
+    "graph_title": "Calorie Burned vs Pounds Lost", 
+    "graph_points": [
+        {
+            "key1": 1,
+            "point1": 3500
+        },
+        {
+            "key2": 2,
+            "point2": 7000
+        },
+        {
+            "key3": 3,
+            "point3": 10500
+        },
+        {   "key4": 4,
+            "point4": 14000
+        },
+        {   "key5": 5,
+            "point5": 17500 
+        }
+    ]
+}

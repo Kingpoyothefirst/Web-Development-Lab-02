@@ -1,0 +1,23 @@
+{
+    "chart_title": "Hours of Walking vs Calories Burned",
+    "data_points": [
+        {
+            "label1": "One Hour",
+            "value1": 200
+        },
+        {
+            "label2": "Two Hours",
+            "value2": 400
+        },
+        {
+            "label3": "Three Hours",
+            "value3": 600
+        },
+        {   "label4": "Four Hours",
+            "value4": 800
+        },
+        {   "label5": "Five Hours",
+            "value5": 1000 
+        }
+    ]
+}
